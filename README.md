@@ -1,0 +1,1 @@
+This is Austin Paul Smith's first git project!
